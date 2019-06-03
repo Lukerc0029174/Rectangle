@@ -37,7 +37,7 @@ namespace WindowsFormsApp1
             }
             catch
             {
-                MessageBox.Show("Type in two numbers."); 
+                MessageBox.Show("Type in two numbers.");  
             }
 
         }
